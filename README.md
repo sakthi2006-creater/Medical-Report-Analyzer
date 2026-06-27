@@ -64,6 +64,9 @@ npm run preview
 - `src/context/HealthContext.tsx` — health state management
 - `src/lib/` — utility and analyzer logic
 
+##WEB LIVE
+https://medical-report-analyzer-eight.vercel.app/
+
 ## Notes
 
 - A successful production build was confirmed locally using `npm run build`.
